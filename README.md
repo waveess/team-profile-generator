@@ -20,4 +20,4 @@ This application uses jest framework.
 <img width="1440" alt="Screen Shot 2020-05-17 at 10 00 07 PM" src="https://user-images.githubusercontent.com/61710672/82175812-cddd5f00-9889-11ea-9592-35eedc8afc0e.png">
 
 #Questions:
-If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: 
+If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/team-profile-generator 
