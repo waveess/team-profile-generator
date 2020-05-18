@@ -1,3 +1,4 @@
-- [Team-Profile-Generator](#team-profile-generator)
+Table of Contents
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+[1- Usage](#Usage:
+this app uses command line to capture user input and creates a team profile generator according to that.)
