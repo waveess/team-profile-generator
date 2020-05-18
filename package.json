@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "to create a team profile generator",
+  "main": "Index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveess/team-profile-generator.git"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Rawan Fatima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waveess/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/waveess/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
