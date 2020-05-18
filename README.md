@@ -1,4 +1,9 @@
-Table of Contents
+<a name="desc"></a>
+## 1. Description
 
-[1- Usage](#Usage:
-this app uses command line to capture user input and creates a team profile generator according to that.)
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
